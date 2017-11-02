@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZCC&#39;s blog</title>
+  <subtitle>Hello,ZCC</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://threetop.top/"/>
+  <updated>2017-11-02T10:23:55.213Z</updated>
+  <id>http://threetop.top/</id>
+  
+  <author>
+    <name>ZCC</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>私人博客---我回来了</title>
+    <link href="http://threetop.top/2017/11/02/NewTravel/"/>
+    <id>http://threetop.top/2017/11/02/NewTravel/</id>
+    <published>2017-11-02T08:40:23.000Z</published>
+    <updated>2017-11-02T10:23:55.213Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、停博以来"><a href="#一、停博以来" class="headerlink" title="一、停博以来"></a>一、停博以来</h2><p>  <img src="http://i2.bvimg.com/616532/8f66fa6cd24b36b3.jpg" alt="pic1"><br>    自从桂林回来广州，发生了太多的变动，一直把更新自己的博客耽搁了。关键原因还是自己的执行力不够，按照自己的计划原本都是可以完成的。唯一值得欣慰的是暑假给自己安排的基本书都顺利看完了，最后虽说桂林的项目没有按照预期完成，但是也从中学到了很多。深刻觉得自己的能力确实有限，当面临一个大的项目还是不能做到得心应手。另外一个压在自己心中的大石头—论文，作为研究生都是过不去的话题。总结起来还是自己看论文的数目太少和加上自己的不感兴趣。每每念及此事，都觉得心烦，只能借助农药解忧，但是事实正好相反，农药打多了让人更加心烦，今天声明已弃坑，不要问我为什么，入迷的东西很少是好的。</p>
+<h2 id="二、重新归来"><a href="#二、重新归来" class="headerlink" title="二、重新归来"></a>二、重新归来</h2><p>  <img src="http://i2.bvimg.com/616532/6bd403fb23dd70fa.jpg" alt="pic2"><br>    今后的日子里还是要按照自己的规划来，每天保证四个小时的高效学习时间。尤其在这段日子需要把论文提到新的日程，但是写博客是我读研以来的一大爱好，我会坚持每天更新，记录自己的学习历程。每天刷一道算法题，每天观看微博，累了的时候出去跑步，拒绝农药，无聊的时候还是看电影，多出去走走吧，我确实不适合宅在宿舍学习。自己还是比较喜欢人多的环境，多接触大牛，向他们学习！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;一、停博以来&quot;&gt;&lt;a href=&quot;#一、停博以来&quot; class=&quot;headerlink&quot; title=&quot;一、停博以来&quot;&gt;&lt;/a&gt;一、停博以来&lt;/h2&gt;&lt;p&gt;  &lt;img src=&quot;http://i2.bvimg.com/616532/8f66fa6cd24b36b
+    
+    </summary>
+    
+    
+      <category term="归来 开心 重踏旅程" scheme="http://threetop.top/tags/%E5%BD%92%E6%9D%A5-%E5%BC%80%E5%BF%83-%E9%87%8D%E8%B8%8F%E6%97%85%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 使用教程</title>
+    <link href="http://threetop.top/2017/11/02/hello-world/"/>
+    <id>http://threetop.top/2017/11/02/hello-world/</id>
+    <published>2017-11-02T07:00:10.449Z</published>
+    <updated>2017-08-02T12:40:50.757Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="使用教程如下"><a href="#使用教程如下" class="headerlink" title="使用教程如下:"></a>使用教程如下:</h1><h2 id="一、创建一个Hexo博客项目-Create-a-new-post"><a href="#一、创建一个Hexo博客项目-Create-a-new-post" class="headerlink" title="一、创建一个Hexo博客项目(Create a new post)"></a>一、创建一个Hexo博客项目(Create a new post)</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h2 id="二、创建一个Hexo服务访问http-locahost-4000查看初始化界面-Run-server"><a href="#二、创建一个Hexo服务访问http-locahost-4000查看初始化界面-Run-server" class="headerlink" title="二、创建一个Hexo服务访问http://locahost:4000查看初始化界面(Run server)"></a>二、创建一个Hexo服务访问<a href="http://locahost:4000查看初始化界面(Run" target="_blank" rel="external">http://locahost:4000查看初始化界面(Run</a> server)</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h2 id="三、利用Hexo生成新的静态页面-Generate-static-files"><a href="#三、利用Hexo生成新的静态页面-Generate-static-files" class="headerlink" title="三、利用Hexo生成新的静态页面(Generate static files)"></a>三、利用Hexo生成新的静态页面(Generate static files)</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h2 id="四、发布到远程服务器-Deploy-to-remote-sites"><a href="#四、发布到远程服务器-Deploy-to-remote-sites" class="headerlink" title="四、发布到远程服务器(Deploy to remote sites)"></a>四、发布到远程服务器(Deploy to remote sites)</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;使用教程如下&quot;&gt;&lt;a href=&quot;#使用教程如下&quot; class=&quot;headerlink&quot; title=&quot;使用教程如下:&quot;&gt;&lt;/a&gt;使用教程如下:&lt;/h1&gt;&lt;h2 id=&quot;一、创建一个Hexo博客项目-Create-a-new-post&quot;&gt;&lt;a href=&quot;#一、创
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>梦忆母校</title>
+    <link href="http://threetop.top/2017/07/26/chang/"/>
+    <id>http://threetop.top/2017/07/26/chang/</id>
+    <published>2017-07-26T03:15:40.000Z</published>
+    <updated>2017-08-02T12:40:50.756Z</updated>
+    
+    <content type="html"><![CDATA[ <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=5308028&auto=0&height=66"></iframe>
+
+<p>  昨天看了母校的公众号，发现了那些熟悉的画面，以此留下纪念!<br><img src="http://i2.tiimg.com/1949/63edd51c6ac4a984.jpg" alt="pic1"><br><img src="http://i2.tiimg.com/1949/5709a569fcbd2ce2.jpg" alt="pic2"><br><img src="http://i2.tiimg.com/1949/665bf5cbcf51bee4.jpg" alt="pic3"><br><img src="http://i2.tiimg.com/1949/8077f76ccbebffed.jpg" alt="pic4"><br><img src="http://i2.tiimg.com/1949/7a81b9e83a3aa616.jpg" alt="pic5"><br><img src="http://i2.tiimg.com/1949/95aa700b3e3fc18d.jpg" alt="pic6"><br><img src="http://i2.tiimg.com/1949/88eab1f776c8dc03.jpg" alt="pic7"></p>
+]]></content>
+    
+    <summary type="html">
+    
+       &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id
+    
+    </summary>
+    
+      <category term="album" scheme="http://threetop.top/categories/album/"/>
+    
+    
+      <category term="长大 母校" scheme="http://threetop.top/tags/%E9%95%BF%E5%A4%A7-%E6%AF%8D%E6%A0%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用hexo创建博文</title>
+    <link href="http://threetop.top/2017/07/26/hexo-use/"/>
+    <id>http://threetop.top/2017/07/26/hexo-use/</id>
+    <published>2017-07-26T02:05:55.000Z</published>
+    <updated>2017-08-02T12:40:50.758Z</updated>
+    
+    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=16846091&auto=0&height=66"></iframe>
+
+<h1 id="一、创建新的页签"><a href="#一、创建新的页签" class="headerlink" title="一、创建新的页签"></a>一、创建新的页签</h1><p>  &emsp;&emsp;所谓创建新的页签就是创建新的分类，比如,相册，归档，首页，关于,标签等页签，具体的命令如下:</p>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo new page album</div></pre></td></tr></table></figure>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo new page archive</div></pre></td></tr></table></figure>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash $ hexo new page about</div></pre></td></tr></table></figure>
+<p>  等，使用上面的命令会在source文件下建立以album,archive,about命名的文件夹，并且每个文件下面有一个index.md文件</p>
+<h1 id="二、创建新的页面"><a href="#二、创建新的页面" class="headerlink" title="二、创建新的页面"></a>二、创建新的页面</h1><p>   &emsp;&emsp;我们创建好了分类之后，需要在每个分类里面创建新的页面，用命令:（引号可要可不要）</p>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo new &quot;hexo_use&quot;</div></pre></td></tr></table></figure>
+<p>   但是这样会默认创建到source下的_posts文件下面,所以如果要到特定的目录下创建页面则需要手动创建。</p>
+<h1 id="三、本地开启服务"><a href="#三、本地开启服务" class="headerlink" title="三、本地开启服务"></a>三、本地开启服务</h1>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo s</div></pre></td></tr></table></figure>
+<h1 id="四、上传到github经常使用到的三个命令"><a href="#四、上传到github经常使用到的三个命令" class="headerlink" title="四、上传到github经常使用到的三个命令"></a>四、上传到github经常使用到的三个命令</h1>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo clean</div></pre></td></tr></table></figure>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo generate</div></pre></td></tr></table></figure>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo deploy</div></pre></td></tr></table></figure>
+<p>  对应的简写方式如下</p>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo clean</div></pre></td></tr></table></figure>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo g</div></pre></td></tr></table></figure>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">bash$ hexo d</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开启github博客的第一天</title>
+    <link href="http://threetop.top/2017/07/24/Hello-Hexo/"/>
+    <id>http://threetop.top/2017/07/24/Hello-Hexo/</id>
+    <published>2017-07-24T09:18:53.000Z</published>
+    <updated>2017-08-02T12:40:50.756Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、开启博客有感"><a href="#一、开启博客有感" class="headerlink" title="一、开启博客有感"></a>一、开启博客有感</h2><p>对于所有做IT的人来说，都想要拥有属于自己的博客，这是我一直以来的想法，却由于种种原因无法实现。以前的我经常观看别人的博客觉得网上的大牛那么多，每天学习那么多新东西，不由得望而敬畏。目前国内比较出名的博客平台:CSDN、博客园、开源中国等，大多数广告太多，我很多同学都纷纷转战它方。自己也想拥有属于自己的一块领地，今天算是实现了自己的一个小小的心愿，在此感谢知乎的那位大牛!</p>
+<h2 id="二、博客参照来源"><a href="#二、博客参照来源" class="headerlink" title="二、博客参照来源"></a>二、博客参照来源</h2><p>参照了知乎一位大牛详细教程:<a href="https://zhuanlan.zhihu.com/p/26625249?utm_source=qq&amp;utm_medium=social" title="GitHub+Hexo 搭建个人网站详细教程" target="_blank" rel="external">https://zhuanlan.zhihu.com/p/26625249?utm_source=qq&amp;utm_medium=social</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;一、开启博客有感&quot;&gt;&lt;a href=&quot;#一、开启博客有感&quot; class=&quot;headerlink&quot; title=&quot;一、开启博客有感&quot;&gt;&lt;/a&gt;一、开启博客有感&lt;/h2&gt;&lt;p&gt;对于所有做IT的人来说，都想要拥有属于自己的博客，这是我一直以来的想法，却由于种种原因无法实
+    
+    </summary>
+    
+    
+      <category term="兴奋，开心，喜悦" scheme="http://threetop.top/tags/%E5%85%B4%E5%A5%8B%EF%BC%8C%E5%BC%80%E5%BF%83%EF%BC%8C%E5%96%9C%E6%82%A6/"/>
+    
+  </entry>
+  
+</feed>
