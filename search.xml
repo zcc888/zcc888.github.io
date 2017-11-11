@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[写在购物节(光棍节)]]></title>
+    <url>%2F2017%2F11%2F11%2Fgun%2F</url>
+    <content type="text"><![CDATA[一、谈下广州 都说广东只有两个季节—春季和夏季,有图有真相! 二、谈下度过 购物，购物，购物，买吃的！监考国家软考(定在双11),观看&lt;&lt;历史转折中的邓小平&gt;&gt;,周末就当给自己放个假!]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo 使用教程]]></title>
     <url>%2F2017%2F11%2F08%2Fhello-world%2F</url>
     <content type="text"><![CDATA[使用教程如下:一、创建一个Hexo博客项目(Create a new post)1$ hexo new "My New Post" More info: Writing 二、创建一个Hexo服务访问http://locahost:4000查看初始化界面(Run server)1$ hexo server More info: Server 三、利用Hexo生成新的静态页面(Generate static files)1$ hexo generate More info: Generating 四、发布到远程服务器(Deploy to remote sites)1$ hexo deploy More info: Deployment]]></content>
