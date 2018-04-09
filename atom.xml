@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://threetop.top/"/>
-  <updated>2018-04-09T10:30:15.702Z</updated>
+  <updated>2018-04-09T10:29:07.398Z</updated>
   <id>http://threetop.top/</id>
   
   <author>
@@ -14,20 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>g</title>
-    <link href="http://threetop.top/2018/04/09/g/"/>
-    <id>http://threetop.top/2018/04/09/g/</id>
-    <published>2018-04-09T10:30:15.000Z</published>
-    <updated>2018-04-09T10:30:15.702Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>查看各个java版本源码和API</title>

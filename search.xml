@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[g]]></title>
-    <url>%2F2018%2F04%2F09%2Fg%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
     <title><![CDATA[查看各个java版本源码和API]]></title>
     <url>%2F2018%2F04%2F09%2Fjava%2F</url>
     <content type="text"><![CDATA[一、各个版本API (1) java9 下载 (2) java8 下载 (3) java7 下载 二、各个版本源码 (1.1) java9新特性(1.2) java9源码 (2.1)java8新特性(2.1)java8 (3) java7 补充 git 使用 (1) 教程 (2) 自我总结]]></content>
