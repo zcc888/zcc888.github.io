@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://threetop.top/"/>
-  <updated>2018-03-06T14:22:53.468Z</updated>
+  <updated>2018-04-09T10:30:15.702Z</updated>
   <id>http://threetop.top/</id>
   
   <author>
@@ -14,6 +14,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>g</title>
+    <link href="http://threetop.top/2018/04/09/g/"/>
+    <id>http://threetop.top/2018/04/09/g/</id>
+    <published>2018-04-09T10:30:15.000Z</published>
+    <updated>2018-04-09T10:30:15.702Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>查看各个java版本源码和API</title>
+    <link href="http://threetop.top/2018/04/09/java/"/>
+    <id>http://threetop.top/2018/04/09/java/</id>
+    <published>2018-04-09T10:23:53.000Z</published>
+    <updated>2018-04-09T10:29:07.398Z</updated>
+    
+    <content type="html"><![CDATA[<p>一、各个版本API<br><img src="http://ww1.sinaimg.cn/large/cb2eaaf0gy1fq6kyzak8rj21hc0u0wnm.jpg" alt=""></p>
+<p>(1) <a href="https://docs.oracle.com/javase/9/docs/api/overview-summary.html" target="_blank" rel="external">java9</a>   <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" rel="external">下载</a></p>
+<p>(2) <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank" rel="external">java8</a>   <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank" rel="external">下载</a></p>
+<p>(3) <a href="https://docs.oracle.com/javase/7/docs/api/" target="_blank" rel="external">java7</a>   <a href="http://www.oracle.com/technetwork/cn/java/javase/downloads/java-se-jdk-7-download-432154-zhs.html" target="_blank" rel="external">下载</a></p>
+<p>二、各个版本源码<br><img src="http://ww1.sinaimg.cn/large/cb2eaaf0gy1fq6kzj2ny3j21400pcae1.jpg" alt=""></p>
+<p>(1.1) <a href="https://www.ibm.com/developerworks/cn/java/the-new-features-of-Java-9/index.html" target="_blank" rel="external">java9新特性</a><br><br>(1.2) <a href="https://github.com/zcc888/Java9Source" target="_blank" rel="external">java9源码</a></p>
+<p>(2.1)<a href="http://www.runoob.com/java/java8-new-features.html" target="_blank" rel="external">java8新特性</a><br><br>(2.1)<a href="https://github.com/zcc888/Java8Source" target="_blank" rel="external">java8</a></p>
+<p>(3) <a href="https://github.com/zcc888/JavaSource" target="_blank" rel="external">java7</a><br></p>
+<p>补充 git 使用</p>
+<p> (1) <a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000" target="_blank" rel="external">教程</a></p>
+<p> (2) <a href="http://blog.csdn.net/zuochao_2013/article/details/76436525" target="_blank" rel="external">自我总结</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一、各个版本API&lt;br&gt;&lt;img src=&quot;http://ww1.sinaimg.cn/large/cb2eaaf0gy1fq6kyzak8rj21hc0u0wnm.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;(1) &lt;a href=&quot;https://docs.oracle.
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>乔布斯在斯坦福大学毕业典礼上的演讲</title>
